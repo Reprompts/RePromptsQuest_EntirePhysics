@@ -1,6 +1,6 @@
 # **Dark Energy and the Accelerating Universe, The Mysterious Force Driving Cosmic Expansion**
 
-In the late 1990s, astronomers made a shocking discovery: the universe is not just expanding — it is **accelerating**. This acceleration cannot be explained by visible matter or dark matter alone. To account for this, scientists proposed the existence of **dark energy**, an invisible form of energy that permeates all of space and pushes the universe apart. Though mysterious and largely theoretical, dark energy appears to dominate the cosmos, shaping its fate and challenging our understanding of fundamental physics.
+In the late 1990s, astronomers made a shocking discovery: the universe is not just expanding, it is **accelerating**. This acceleration cannot be explained by visible matter or dark matter alone. To account for this, scientists proposed the existence of **dark energy**, an invisible form of energy that permeates all of space and pushes the universe apart. Though mysterious and largely theoretical, dark energy appears to dominate the cosmos, shaping its fate and challenging our understanding of fundamental physics.
 
 ---
 
@@ -12,7 +12,7 @@ The discovery of dark energy was unexpected and revolutionary:
 * These measurements showed that the universe’s expansion rate is increasing, contrary to the expectation that gravity would slow it down over time.
 * Subsequent observations of the **cosmic microwave background (CMB)**, **baryon acoustic oscillations**, and large-scale structure confirmed the need for a new component driving acceleration.
 
-Together, these findings suggested that about **68% of the universe’s total energy density** is in the form of dark energy — a force invisible to our instruments but dominant in shaping cosmic evolution.
+Together, these findings suggested that about **68% of the universe’s total energy density** is in the form of dark energy, a force invisible to our instruments but dominant in shaping cosmic evolution.
 
 ---
 
@@ -24,7 +24,7 @@ Dark energy has profound implications for cosmology:
 * **Energy Balance:** Dark energy affects the geometry, expansion rate, and evolution of the universe, influencing the formation of galaxies and clusters.
 * **Fundamental Physics:** Understanding dark energy could reveal new physics beyond the Standard Model and general relativity, connecting cosmology with quantum theory.
 
-Dark energy is not just a mysterious component of the universe — it is a central player in its past, present, and future.
+Dark energy is not just a mysterious component of the universe, it is a central player in its past, present, and future.
 
 ---
 
