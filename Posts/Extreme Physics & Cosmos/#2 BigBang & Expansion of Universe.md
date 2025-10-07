@@ -1,4 +1,4 @@
-# **The Big Bang and the Expanding Universe — Origins, Mysteries, and Questions**
+# **The Big Bang and the Expanding Universe, Origins, Mysteries, and Questions**
 
 The story of the universe begins with an idea that has captivated scientists, philosophers, and thinkers for nearly a century. The **Big Bang** is currently the most widely accepted explanation for the universe’s origin, describing how space, time, matter, and energy may have emerged from an extremely hot and dense state and expanded into what we observe today. However, it remains a **theory**, and fundamental questions about the true origin of the universe, why it exists, and what came before it remain open and debated.
 
